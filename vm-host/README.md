@@ -58,6 +58,6 @@ forcing a full policy refresh with a reboot, resolved it.
 
 ## Screenshots
 
-See `/screenshots` for verification: AD Users and Computers, domain join 
+See `/screenshots-final` for verification: AD Users and Computers, domain join 
 confirmation, GPO application (`gpresult`), the login banner appearing on the 
 sign-in screen, and the Nginx welcome page.
